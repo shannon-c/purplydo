@@ -19,7 +19,7 @@ Open the app with the following **supported browsers** & many more...
 
 [![Foo](https://i.postimg.cc/y8Kd9G9b/megi.jpg)
 
-## https://mirotalk.herokuapp.com/
+## https://shannon-c.github.io/purplydo/
 
 <br>
 
